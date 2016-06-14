@@ -1,0 +1,19 @@
+@import 'variables.scss';
+@import '../../node_modules/bulma/bulma.sass';
+
+* {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    font-family: "Raleway", "Helvetica", Arial, sans-serif;
+}
+
+.hero .nav-item img {
+    max-height: 42px;
+}
+
+.rules {
+    .title {
+        margin: 20px -10px 5px;
+    }
+}
