@@ -1,4 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter
+# LFGamers Community Site
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+Using bulma CSS Framework, and react/gatsby.
+
+clone, npm install, npm install g gatsby, gastby develop
+
+when ready to deploy, run gatsby build, commit, and push
