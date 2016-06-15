@@ -18,8 +18,6 @@ module.exports = React.createClass({
                         content="width=device-width, initial-scale=1.0 maximum-scale=1.0"
                     />
                     <title>Looking For Gamers - Community Portal</title>
-                    <link href="//fonts.googleapis.com/css?family=Raleway:200,300,500|PT+Sans:400" rel="stylesheet"
-                          type="text/css"/>
                     <link rel="shortcut icon" href={this.props.favicon}/>
                     {css}
                 </head>
