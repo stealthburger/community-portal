@@ -12,6 +12,6 @@
     max-height: 42px;
 }
 
-.title {
+.title:not(h1) {
     margin: 30px -10px 15px;
 }

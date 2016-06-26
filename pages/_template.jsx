@@ -30,9 +30,9 @@ export default class _template extends React.Component {
                         <header className="nav">
                             <div className="container">
                                 <div className="nav-left">
-                                    <a className="nav-item">
+                                    <Link to='/' className="nav-item">
                                         <img src="/images/logo.png" alt="Logo"/>
-                                    </a>
+                                    </Link>
                                 </div>
                                 <div className="nav-right nav-menu is-flex-desktop is-hidden-touch">
                                     <Link to='/servers/' className="nav-item">Servers</Link>
