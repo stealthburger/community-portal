@@ -35,12 +35,16 @@ Until further notice, advertising your discord server/group/community/youtube is
 A polite message asking if people want to come talk in voice channels or play games is acceptable, but incessantly bothering people via PM or spamming messages is not allowed.
 
 
-### 8. **No sockpuppets or ban dodging.**  
+### 8. **No discussing or encouraging illegal content/behavior
+We don't want to get sued.  Things like posting links to torrent sites, encouraging hacking/DDOSing, or advocating other illegal activity is prohibited.
+
+
+### 9. **No sockpuppets or ban dodging.**  
 Stick with one account, and if you are banned, stay banned.
 
 
-### 9. **No arguing with staff or mods.**
-We can’t cover every eventuality in the rules here.  A lot of cases will be on a fine line between acceptable and unacceptable.  If you disagree with a mods decision please politely bring it up with a staff member.  If you abuse or harass a mod, you might be kicked or banned.  We’re not trying to be a server where everything is politically correct and you have to walk on eggshells no matter what you do, but at the same time we are trying to create a friendly environment where everyone feels welcome and safe.  So please abide by these rules and decisions made by the mods.
+### 10. **No arguing with staff or mods on server administration matters.**
+We can’t cover every eventuality in the rules here.  A lot of cases will be on a fine line between acceptable and unacceptable.  If you disagree with a mod's decision please politely bring it up with a staff member.  If you abuse or harass a mod, you might be kicked or banned.  We’re not trying to be a server where everything is politically correct and you have to walk on eggshells no matter what you do, but at the same time we are trying to create a friendly environment where everyone feels welcome and safe.  So please abide by these rules and decisions made by the mods.
 
 ___ 
 
