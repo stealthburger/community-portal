@@ -36,7 +36,7 @@ A polite message asking if people want to come talk in voice channels or play ga
 
 
 ### 8. **No discussing or encouraging illegal content/behavior
-We don't want to get sued.  Things like posting links to torrent sites, encouraging hacking/DDOSing, or advocating other illegal activity is prohibited.
+We don't want to get sued.  Things like posting links to torrent sites, encouraging hacking/DDOSing, or advocating other illegal activity are prohibited.
 
 
 ### 9. **No sockpuppets or ban dodging.**  
